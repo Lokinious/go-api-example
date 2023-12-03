@@ -90,9 +90,6 @@ A simple Go application that interacts with Redis, designed for demonstration an
 
 - `DELETE /api/clear`: Clear all messages from the cache.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 Replace placeholders like `yourusername`, `your-go-app`, and `your-category` with your actual details. This README provides a quick guide on local development, Docker usage, and Kubernetes deployment. Make sure to include details specific to your application and any additional instructions or information you want to convey.
